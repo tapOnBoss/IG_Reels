@@ -1,0 +1,56 @@
+/* profile banner rule size  for bg */
+div.a, div.a_0, div.a_1{
+    margin: 2.354rem 0rem 0rem 3.5rem;
+    background-image: url(../BG/JPG/eperimental\ background.jpg);
+    height: 96vh;
+    width: 96vW;
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+  /* layer -1 */
+body{
+    background-color: rgb(0, 0, 0);
+}
+div.a.a_0, div.a.a_1{background-color: rgb(0, 0, 0);}
+/* logo layer 2 */
+a ,a img, div.a_0{
+background-color: rgba(226, 92, 43, 0.556);
+color: rgb(255, 0, 212);
+font-size: 225%;
+}
+/* logo text */
+div.a a h1{
+    padding-left: 25%;
+}
+/* hidden */
+div.a_0 h1{
+    visibility: hidden;
+}
+div.a_0{
+    color: rgba(245, 2, 2, 0.843);
+    text-decoration: overline;
+    text-shadow:  white 3000px -33px;
+    font-size: 300%;
+    background-image: url(../BG/JPG/eperimental\ background.jpg);
+    margin: 0;
+}
+div.a h1{
+    border: #000 13px solid;
+
+    background-image: url(../BG/JPG/Eperimental\ bg-01.jpg);
+    z-index: 1;
+}
+/* horse img */
+.horse {
+    background-image: url(../BG/JPG/horse.jpg);
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 31.3%;
+    top: 100%;
+    z-index: -1;
+}

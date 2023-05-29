@@ -1,0 +1,12 @@
+T_F text file
+Note!
+This based to make user interface look Best as can
+NOTE!
+Its just eperimental, not EndUser.
+Note!
+Check designs by runing on live server.
+Made simplistic low skill required.
+Note!
+After lvl 0 design can move on to JS, Sass, SCSS...
+more compilers means better productivity and faster Scratch to End 
+Product.
